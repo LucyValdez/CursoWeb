@@ -1,0 +1,38 @@
+CURSO DESARROLLO WEB Y TECNOLOGÍAS EN LA NUBE
+Instructor Ing. Octavio Mejía
+Durango, Dgo del 16 al 20 de enero de 2022
+
+HERAMIENTAS
+
+1) VS Code (editor Electron): Versiòn estable(1.74)
+	Para modificar la interfaz se inicia con las extensiones (menù lateral izquierdo) se instala el tema y se modifica con ctrl k y ctrl t
+Otras extensiones: 
+Auto Close Tag (cierra automáticamente una etiqueta)	
+Auto Rename Tag
+Prettier Code Formatter
+Open Folder (Seleccionar una carpeta para concentrar ahí los archivos)
+
+***	CREAR HTML
+NEW FILE - index.html (snippet: secciones de código básicas)
+html:5 (carga un snippet con el head y el body)
+tips: - escibir nombre de etiqueta y tab : abre y cierra la etiqueta
+	- para heredar características ej. ul>li*4 tab crea lista de 4 elementos
+	- múltiples cursores Alt + click
+	- para imagenes visitar www.iconfinder.com
+	- Para comentar selecciono y ctrl+}
+	- Identación automática Shift+Alt+f
+
+*** CSS Hojas de Estilo
+	Lo primero que se agrega (en <style>) es el selector ya sea por nombre de etiqueta(ejemplo body{}) y entre llaves las reglas, como conjunto de pares:
+	propiedad: valor; o por clase anteponiendo un punto al nombre de la clase (.especial)
+	Un seudo selector como hover es un estado que cambia al pasar el mouse sobre el texto
+	y por último el selector por identificador (id) (ej. id="profile") con el #profile
+
+*** ESTILO EN LÍNEA
+	Colocar el style dentro de las etiquetas (no recomendable)
+
+Tip: con F12 en el navegador accedemos a herramientas para desarrolladores. en la parte inferior hay un 
+MODELO DE CAJA: representa la estructura de un documento html, al centro (azul) es el contenido, 
+la capa verde es el padding y sigue el border
+
+- páginas premiadas awwwards.com
